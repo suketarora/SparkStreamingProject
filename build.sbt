@@ -1,4 +1,4 @@
-name := "KafkaReader"
+name := "Spark_Kafka_ScyllaDB_ETL"
 
 version := "0.1"
 
